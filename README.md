@@ -1,2 +1,2 @@
 # Projeto-Arduino---Genius
-Jogo analógico Genius em arduino
+Reproduzindo o jogo analogico Genius em um arduino virtual utilizando o Tindercad
